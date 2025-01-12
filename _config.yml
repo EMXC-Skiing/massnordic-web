@@ -1,3 +1,6 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Mass Nordic
+description: Promoting cross country ski racing for Massachusetts high schoolers ages 14-18.
+show_downloads: false
