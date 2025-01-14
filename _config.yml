@@ -1,4 +1,6 @@
 title: Mass Nordic
 description: Promoting cross country ski racing for Massachusetts high schoolers ages 14-18.
-theme: just-the-docs
-url: https://massnordic.org
+remote_theme: just-the-docs/just-the-docs
+baseurl: ""
+url: "https:massnordic.org"
+search_enabled: true
