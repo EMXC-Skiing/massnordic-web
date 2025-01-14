@@ -1,48 +1,18 @@
-# MA Nordic Points for EHS & U16s Qualification
 ---
 title: About the Mass Nordic Points System
 layout: home
 ---
 
-[Introduction & Overview](#introduction-&-overview)
+# MA Nordic Points for EHS & U16s Qualification
 
-[Purpose of the MA Nordic Points System](#purpose-of-the-ma-nordic-points-system)
-
-[Key Components](#key-components)
-
-[Eligibility](#eligibility)
-
-[Registering for the MA Nordic Cup](#heading=h.xbwx4brocrhg)
-
-[Obtaining a waiver](#heading=h.puznrfqf3lvv)
-
-[Earning Points](#earning-points)
-
-[Which races earn points](#which-races-earn-points)
-
-[Who earns points](#who-earns-points)
-
-[When points are calculated](#when-points-are-calculated)
-
-[How points are calculated](#how-points-are-calculated)
-
-[Team Selection](#team-selection)
-
-[Calculation of the MA Ranking List](#calculation-of-the-ma-ranking-list)
-
-[For coaches](#for-coaches)
-
-[How do I submit race results for entry into the MA Nordic results database?](#how-do-i-submit-race-results-for-entry-into-the-ma-nordic-results-database?)
-
-## Introduction & Overview {#introduction-&-overview}
+## Introduction & Overview
 
 In the 2024-25 season, Massachusetts will adopt the MA Nordic Points system to select teams for the Eastern High School (EHS) and U16 Championships.
 
-### Purpose of the MA Nordic Points System {#purpose-of-the-ma-nordic-points-system}
-
+### Purpose of the MA Nordic Points System 
 The purpose of the points system is to create more objectivity and transparency in how athlete performance factors into championship team selection, while also rewarding athletes for strong performances in racing outside of the MA Nordic Cup. The points system will **not** displace the MA Nordic Cup as a central component of team qualification.
 
-### Key Components {#key-components}
+### Key Components
 
 **MA Nordic Cup**
 
@@ -68,7 +38,7 @@ The purpose of the points system is to create more objectivity and transparency 
 * The MA Ranking List will be available online at massnordic.org starting after the MA Nordic Cup, and will be updated at least weekly.  
 * Team selection and naming will be based on the final version of the MA Ranking List and will occur after the conclusion of the final Eastern Cup weekend.
 
-## Eligibility {#eligibility}
+## Eligibility
 
 ### Registering for the MA Nordic Cup
 
@@ -93,9 +63,9 @@ Skiers with approved waivers may be selected for a championship team on either o
 * Skiers who have earned points from at least one classic and one skate race among the list of points-eligible events will be included on the MA Ranking List and eligible for selection based on their ranking on the list. *Note: In the 2024-25 season, the only classic races open to all MA athletes, apart from the MA Nordic Cup, are on the Eastern Cup circuit.*  
 * Skiers who have not earned both classic and skate points in the season will not be included on the MA Ranking List and can only be considered for team selection through a discretionary pick by the MA Nordic Committee.
 
-## Earning Points {#earning-points}
+## Earning Points
 
-### Which races earn points {#which-races-earn-points}
+### Which races earn points
 
 MA Nordic points may be earned at any of the following races and race series[^1]:
 
@@ -104,17 +74,17 @@ MA Nordic points may be earned at any of the following races and race series[^1]
 3. State Championships (MIAA & NEPSAC)  
 4. Eastern Cups
 
-### Who earns points {#who-earns-points}
+### Who earns points
 
 All high school and U16 skiers registered for the MA Nordic Cup in a given season earn MA Nordic Points for their racing in that season.
 
-### When points are calculated {#when-points-are-calculated}
+### When points are calculated
 
 The MA Ranking List will be maintained and updated beginning after the MA Nordic Cup and ending shortly after the final Eastern Cup weekend. During this period, the most recent MA Ranking List will be available for review at massnordic.org.
 
 Points are calculated for all points-eligible races a skier has finished in the current season, including retroactively for points-eligible races that occurred before the MA Nordic Cup.
 
-### How points are calculated {#how-points-are-calculated}
+### How points are calculated
 
 Any registered skier who finishes a points-eligible race earns points in that race. Lower points indicate better performances. A skier’s points from a race depend on two factors:
 
@@ -123,9 +93,9 @@ Any registered skier who finishes a points-eligible race earns points in that ra
 
 *Example*. If the race penalty of a points-eligible race is 100, then the top MA finisher would score 100 points, and a skier whose time is 5% back from that of the top MA finisher would score 105 points.
 
-## Team Selection {#team-selection}
+## Team Selection
 
-### Calculation of the MA Ranking List {#calculation-of-the-ma-ranking-list}
+### Calculation of the MA Ranking List
 
 Points are calculated separately for classic and skate races, and then the classic average and skate average are added together to form a skier’s overall points total. The formula is the same for each technique.
 
@@ -151,9 +121,9 @@ For each championship team, twenty slots of each gender will be filled in order 
 
 Up to four team slots of each gender will be filled at the discretion of the MA Nordic Committee.
 
-## For coaches {#for-coaches}
+## For coaches
 
-### How do I submit race results for entry into the MA Nordic results database? {#how-do-i-submit-race-results-for-entry-into-the-ma-nordic-results-database?}
+### How do I submit race results for entry into the MA Nordic results database? 
 
 After each race, email the results as an attachment to [**massnordic@emxc.org**](mailto:massnordic@emxc.org). 
 
