@@ -2,9 +2,6 @@
 title: Home
 layout: home
 ---
----
-layout: default
----
 
 # Mass Nordic
 
