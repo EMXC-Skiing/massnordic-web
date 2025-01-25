@@ -5,7 +5,7 @@ layout: home
 
 # 2025 MA Nordic Cup
 
-Up-to-date race information may be found [here](https://docs.google.com/document/d/1NCbc5PkPhe5QUGVKvscRXiIr5_0wUNi8QKjOUpXQrVQ/edit?usp=drive_link).
+[Up-to-date race information may be found here.](https://docs.google.com/document/d/1NCbc5PkPhe5QUGVKvscRXiIr5_0wUNi8QKjOUpXQrVQ/edit?usp=drive_link)
 
 **Start lists** for the classic race are here:
 
