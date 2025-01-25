@@ -30,11 +30,11 @@ The Mass Nordic Championship Team selection is based on a points system. Points 
 * Championship Race (MIAA & NEPSAC)  
 * Eastern Cups
 
-[This document](https://docs.google.com/document/d/1dD411t_LyrOUlHflRHAxJtLhS59LpgJG2PmiuKdLTpg/edit?usp=drive_link) contains additional details on the MA Nordic point system.
+Additional details of the MA Nordic point system may be found [here]({% link about_mrl.md %}).
 
 The U16 and EHS Team will be announced after the last Eastern Cup of the season. Skiers and coaches may inspect the dataset of race results [here](https://app.hex.tech/70f48122-c26b-4657-9a9c-f117cb78c48a/app/61a8b3dd-f74a-4b84-bee3-2041395ea866/latest). Points and rankings will be posted after the MA Nordic Cup.
 
-### **What races does Mass Nordic do?**
+### **What races does Mass Nordic participate in?**
 
 * [MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier?nc=1)  
 * [U16 Championship](https://nensa.net/u16-championships/)  
