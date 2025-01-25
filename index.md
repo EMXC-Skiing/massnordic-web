@@ -3,9 +3,23 @@ title: Home
 layout: home
 ---
 
-# Mass Nordic
+# 2025 MA Nordic Cup
 
-### **Program description**
+Up-to-date race information may be found [here](https://docs.google.com/document/d/1NCbc5PkPhe5QUGVKvscRXiIr5_0wUNi8QKjOUpXQrVQ/edit?usp=drive_link).
+
+**Start lists** for the classic race are here:
+
+* [Boys](https://drive.google.com/file/d/19u8-S5M1Caey5CVTQeLTKOVdKXkv_kKK/view?usp=drive_link)
+* [Girls](https://drive.google.com/file/d/1-oVleQWaCvwsnXvdq9lhoU2b70mk2m_A/view?usp=drive_link) NOTE: The first girl will start between 1:45-1:47, depending on when the course clears.
+
+Skiers will retain the same bibs and start order for the skate race. Race start times are planned as follows:
+
+* 1:00 pm - Boys Classic Individual Start, \~4km
+* \~1:45 pm - Girls Classic Individual Start, \~4km
+* \~2:45 pm - Boys Skate Individual Start, \~4km
+* \~3:25 pm - Girls Skate Individual Start, \~4km.
+
+# About MA Nordic
 
 The Massachusetts Nordic Program, known as Mass Nordic, represents Massachusetts at the Eastern US U16 Championship and the EHS (Eastern High School) Championship in March, with a separate team for each event. The championship events include teams from NY, VT, ME, NH, CT and RI. At the U16 event, a team frequently travels from the Midwest as well.
 
