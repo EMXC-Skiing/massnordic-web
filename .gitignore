@@ -35,3 +35,9 @@ logs/
 env/
 venv/
 *.env
+
+# VSCode
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
