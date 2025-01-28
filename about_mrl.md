@@ -106,7 +106,8 @@ Points from the MA Nordic Cup are considered first, followed by the skier’s be
 In particular, MA Nordic Cup points are always included in the calculation of the skier’s final season points. No further racing beyond the MA Nordic Cup is required to be named to a championship team.
 
 However, a skier’s point total can be improved, if supported by additional strong racing. Up to three additional races with better points than the skier’s MA Nordic Cup points may also be included. MA Nordic Cup points are used in those slots by default if the skier doesn’t have other races that qualify. The average of these four numbers—MA Nordic Cup points and the three best other scores (or MA Nordic points as placeholders)—determines their overall point average for that technique.  
-![][./assets/mrl_aggregation_diagram.pdf "MRL Points Aggregation"]
+
+![Diagram illustrating MA Ranking List calculation from points](./assets/mrl_aggregation_diagram.pdf "Diagram illustrating MA Ranking List calculation from points.")
 
 If the skier did not race the MA Nordic Cup in a given technique:
 
