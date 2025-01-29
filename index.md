@@ -10,7 +10,7 @@ The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachus
 
 ## Results and Ranking Lists
 
-[Browse MA Nordic results, points, and ranking lists](https://just-the-docs.com){: .btn .btn-blue }
+[Browse MA Nordic results, points, and ranking lists](https://app.hex.tech/70f48122-c26b-4657-9a9c-f117cb78c48a/app/61a8b3dd-f74a-4b84-bee3-2041395ea866/latest){: .btn .btn-blue }
 
 For information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
 
