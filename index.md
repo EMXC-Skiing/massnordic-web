@@ -1,59 +1,49 @@
 ---
-title: Home
+title: About Mass Nordic
 layout: home
 ---
 
-# 2025 MA Nordic Cup
 
-[Up-to-date race information may be found here.](https://docs.google.com/document/d/1NCbc5PkPhe5QUGVKvscRXiIr5_0wUNi8QKjOUpXQrVQ/edit?usp=drive_link)
+# About Mass Nordic
 
-**Start lists** for the classic race are here:
+The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachusetts at the **Eastern U16 Championship** and the **Eastern High School (EHS) Championship**, held annually in March. Mass Nordic brings together together talented cross-country skiers from across the state to compete as one team at these exciting and prestigious championships.
 
-* [Boys](https://drive.google.com/file/d/19u8-S5M1Caey5CVTQeLTKOVdKXkv_kKK/view?usp=drive_link)
-* [Girls](https://drive.google.com/file/d/1zUoGDYEi6tRiszjOK2duI-IuDdRVBX8q/view?usp=drive_link) (Updated 8:40pm 1/25). NOTE: The first girl will start between 1:45-1:47, depending on when the course clears.
+## Championship Events
 
-Skiers will retain the same bibs and start order for the skate race. Race start times are planned as follows:
+- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the New England Nordic Ski Association (NENSA). States from across the Northeast participate.
+- Massachusetts takes 24 boys and 24 girls to each event.
+- Team selection is primarily based on performance in the MA Nordic Cup, held in late January. Performance in other events such as high school league racing and Eastern Cups may also contribute.
+- In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
 
-* 1:00 pm - Boys Classic Individual Start, \~4km
-* \~1:45 pm - Girls Classic Individual Start, \~4km
-* \~2:45 pm - Boys Skate Individual Start, \~4km
-* \~3:25 pm - Girls Skate Individual Start, \~4km.
+### Eligibility
+- Any U16 athlete living or going to school in MA is eligible for U16 Championships.
+- Any high-school athlete (grade 9-12) living or going to school in MA is eligible for EHS Championships.
+-  Only athletes who have registered for the MA Nordic Cup are considered for team selection.
 
-# About MA Nordic
+### Team Selection
 
-The Massachusetts Nordic Program, known as Mass Nordic, represents Massachusetts at the Eastern US U16 Championship and the EHS (Eastern High School) Championship in March, with a separate team for each event. The championship events include teams from NY, VT, ME, NH, CT and RI. At the U16 event, a team frequently travels from the Midwest as well.
+- Invitations to the U16 and EHS teams are issued after the final Eastern Cup of the season.
+- Team selection is based on a **points system** that rewards performance in various races throughout the season. Points may be earned at the following events:
+    - The **Mass Nordic Cup** (all skiers must register for this event).
+    - **High School League Races** (public and private).
+    - **Championship Races** (MIAA & NEPSAC).
+    - **Eastern Cups**.
+- Coaches report race results to the MA Nordic Committee for the purpose of point calculation. The dataset of race results is viewable [here](https://app.hex.tech/70f48122-c26b-4657-9a9c-f117cb78c48a/app/61a8b3dd-f74a-4b84-bee3-2041395ea866/latest).
+- For more details about the points system, visit the [About MA Nordic Points]({% link mass-nordic-points/about.md %}) page.
 
-U16 team includes 24 boys and 24 girls that compete at the U16 Championship on the second weekend in March.
+## Mass Nordic Cup
 
-EHS team includes 24 boys and 24 girls in grades 9-12, not restricted by age. The date of EHS conflicts with Junior Nationals (JNs), so JN athletes do not participate in EHS.
+The Mass Nordic Cup is the flagship qualification event. It is held on a single day annually in late January and includes both skate and classic races. Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the Mass Nordic Cup.
 
-### **Who participates?**
+## The MA Nordic Program
 
-U16 team: any Nordic skier that fits into the USSA U16 category. They can be part of a middle school team, HS team, club team, or unattached.
+### Mass Nordic Committee
 
-EHS team: any Nordic skier in grades 9, 10, 11, or 12\. They can be part of a HS team, club team, or unattached.
+Mass Nordic is an independent subsidiary of [EMXC Skiing](https://emxc.org) and is led by a committee of coaches from across the state: Hilary Greene (Mt. Greylock / Berkshire Nordic), Chris Li (Wayland), Joe Miller (Lenox), Peter Rayton (Northfield Mount Hermon) Chris Stock (EMXC), Ryan Touponce (Wahconah), and Susannah Wheelwright (Dover-Sherborn).
 
-As an EMXC program, even though Mass Nordic includes other athletes and coaches, all coaches and athletes over 18 must be background checked and have participated in SafeSport through US Ski and Snowboard. See our [***SafeSport***](https://emxc.org/resources/safesport-compliance) page for details.
+### SafeSport
+Under EMXC policies, all coaches and athletes over the age of 18 participating in MA Nordic championship teams are required to complete background checks and SafeSport training through US Ski and Snowboard. For more details, visit the EMXC [SafeSport Compliance page](https://emxc.org/resources/safesport-compliance).
 
-### **How are racers selected?**
+### Contact 
 
-The Mass Nordic Championship Team selection is based on a points system. Points can be earned at the following races.
-
-* Massachusetts Nordic Cup. All skiers must [register for this event](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier?nc=1) in order to be considered for the team.  
-* High School League Races (public and private)  
-* Championship Race (MIAA & NEPSAC)  
-* Eastern Cups
-
-Additional details of the MA Nordic point system may be found [here]({% link about_mrl.md %}).
-
-The U16 and EHS Team will be announced after the last Eastern Cup of the season. Skiers and coaches may inspect the dataset of race results [here](https://app.hex.tech/70f48122-c26b-4657-9a9c-f117cb78c48a/app/61a8b3dd-f74a-4b84-bee3-2041395ea866/latest). Points and rankings will be posted after the MA Nordic Cup.
-
-### **What races does Mass Nordic participate in?**
-
-* [MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier?nc=1)  
-* [U16 Championship](https://nensa.net/u16-championships/)  
-* [EHS Championship](https://nensa.net/eastern-hs-championships/)
-
-### **How do I contact Mass Nordic?**
-
-Please email: massnordic@emxc.org
+For questions or more information, please email **[massnordic@emxc.org](mailto:massnordic@emxc.org)**.

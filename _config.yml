@@ -4,3 +4,8 @@ theme: just-the-docs
 baseurl: ""
 url: "https://massnordic.org"
 search_enabled: true
+
+callouts:
+  warning:
+    title: warning
+    color: yellow
