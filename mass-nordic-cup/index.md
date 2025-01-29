@@ -1,5 +1,4 @@
 ---
-title: About the Mass Nordic Cup
+title: Mass Nordic Cup
 layout: default
-parent: Mass Nordic Cup
 ---

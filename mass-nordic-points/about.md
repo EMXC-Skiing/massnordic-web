@@ -126,7 +126,6 @@ Points are calculated separately for **classic** and **skate** races, and then t
 {: .highlight }
 **Note**: At least one classic and one skate race must be completed for inclusion in the ranking list. If a skier does not have enough qualifying results, their only route onto a championship team is via a discretionary pick.
 
-
 ### Naming a Team
 
 For each championship team, twenty slots of each gender will be filled in order of placement on the MA Ranking List. If a skier declines one of these slots, that slot will be offered to the next eligible skier on the ranking list.
