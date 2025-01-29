@@ -1,5 +1,5 @@
 ---
-title: About the MA Nordic Points System
+title: About MA Nordic Points
 layout: default
 parent: Points & Ranking Lists
 ---

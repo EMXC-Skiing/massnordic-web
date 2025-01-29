@@ -4,10 +4,15 @@ layout: home
 nav_order: 1
 ---
 
-
 # About Mass Nordic
 
 The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachusetts at the **Eastern U16 Championship** and the **Eastern High School (EHS) Championship**, held annually in March. Mass Nordic brings together together talented cross-country skiers from across the state to compete as one team at these exciting and prestigious championships.
+
+## Results and Ranking Lists
+
+[Browse MA Nordic results, points, and ranking lists](https://just-the-docs.com){: .btn .btn-blue }
+
+For information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
 
 ## Championship Events
 
@@ -30,7 +35,7 @@ The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachus
     - **Championship Races** (MIAA & NEPSAC).
     - **Eastern Cups**.
 - Coaches report race results to the MA Nordic Committee for the purpose of point calculation. The dataset of race results is viewable [here](https://app.hex.tech/70f48122-c26b-4657-9a9c-f117cb78c48a/app/61a8b3dd-f74a-4b84-bee3-2041395ea866/latest).
-- For more details about the points system, visit the [About MA Nordic Points]({% link mass-nordic-points/about.md %}) page.
+
 
 ## Mass Nordic Cup
 
