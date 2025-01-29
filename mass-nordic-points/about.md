@@ -5,9 +5,6 @@ layout: default
 
 # MA Nordic Points for EHS & U16s Qualification
 
-1. TOC
-{:toc}
-
 ## Introduction & Overview
 
 In the 2024-25 season, Massachusetts will adopt the MA Nordic Points system to select teams for the Eastern High School (EHS) and U16 Championships.
