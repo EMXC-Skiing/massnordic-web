@@ -1,5 +1,5 @@
 ---
-title: About Team Selection
+title: Points, Ranking List, and Team Selection
 layout: default
 ---
 
