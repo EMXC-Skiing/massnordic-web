@@ -1,6 +1,7 @@
 ---
-title: Points, Ranking List, and Team Selection
+title: About the MA Nordic Points System
 layout: default
+parent: Points & Ranking Lists
 ---
 
 # MA Nordic Points for EHS & U16s Qualification
