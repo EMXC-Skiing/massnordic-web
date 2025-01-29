@@ -1,6 +1,7 @@
 ---
 title: About Mass Nordic
 layout: home
+nav_order: 1
 ---
 
 
@@ -35,7 +36,7 @@ The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachus
 
 The Mass Nordic Cup is the flagship qualification event. It is held on a single day annually in late January and includes both skate and classic races. Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the Mass Nordic Cup.
 
-## The MA Nordic Program
+## The Mass Nordic Program
 
 ### Mass Nordic Committee
 
