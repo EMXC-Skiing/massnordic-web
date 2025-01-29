@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://massnordic.org"
 search_enabled: true
 color_scheme: massnordic
+permalink: pretty
 
 callouts:
   highlight:
