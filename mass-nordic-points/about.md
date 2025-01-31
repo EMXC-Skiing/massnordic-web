@@ -8,8 +8,6 @@ parent: Points & Ranking Lists
 
 ## Introduction & Overview
 
-In the 2024-25 season, Massachusetts will adopt the MA Nordic Points system to select teams for the Eastern High School (EHS) and U16 Championships.
-
 ### Purpose of the MA Nordic Points System
 
 The purpose of the points system is to create more objectivity and transparency in how athlete performance factors into championship team selection, while also rewarding athletes for strong performances in races outside of the MA Nordic Cup. The points system continues to emphasize the MA Nordic Cup's traditional role as a central component of team qualification.
