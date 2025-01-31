@@ -8,7 +8,7 @@ nav_order: 5
 
 In the 2024-25 season, Massachusetts has adopted the MA Nordic Points system to select teams for the Eastern High School (EHS) and U16 Championships.
 
-[Browse MA Nordic results, points, and ranking lists](massnordic.org/points){: .btn .btn-blue }
+[Browse MA Nordic results, points, and ranking lists](https://massnordic.org/points){: .btn .btn-blue }
 
 For information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
 
