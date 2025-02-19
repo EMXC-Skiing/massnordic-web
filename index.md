@@ -9,18 +9,16 @@ nav_order: 1
 The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachusetts at the Eastern U16 Championship and the Eastern High School (EHS) Championship, race weekends held annually in March in New England. 
 Athletes are selected for these teams via participation in the annual Mass Nordic Cup as well as points earned from local and regional racing.
 
-## Team Naming
+## 2025 Team Naming
 
 Attached are the athletes that have been named to the 2025 U16 and EHS teams as well as the alternates.
 
-- [Team Roster - U16 Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_U16_Girls.pdf %})
+- [Team Roster - U16 Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_U16_Boys.pdf %})
 - [Team Roster - U16 Championships - Girls]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_U16_Girls.pdf)
 - [Team Roster - EHS Championships - Boys]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_EHS_Boys.pdf)
 - [Team Roster - EHS Championships - Girls]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf)
 
-[Browse MA Nordic results, points, and ranking lists](https://massnordic.org/points){: .btn .btn-blue }
-
-### Team selection
+## Selection Criteria
 
 - Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the Mass Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
     1. **High School League Races** (public and private).
