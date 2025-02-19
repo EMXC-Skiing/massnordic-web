@@ -11,14 +11,21 @@ Athletes are selected for these teams via participation in the annual Mass Nordi
 
 ## 2025 Team Naming
 
-Attached are the athletes that have been named to the 2025 U16 and EHS teams as well as the alternates.
+See links below for lists of the athletes that have been named to the 2025 U16 and EHS teams as well as the alternates.
 
 - [Team Roster - U16 Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_U16_Boys.pdf %})
 - [Team Roster - U16 Championships - Girls]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_U16_Girls.pdf)
 - [Team Roster - EHS Championships - Boys]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_EHS_Boys.pdf)
 - [Team Roster - EHS Championships - Girls]({{ site.baseurl }}/assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf)
 
-## Selection Criteria
+## Championship Events
+
+- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the New England Nordic Ski Association (NENSA). States from across the Northeast participate.
+- Massachusetts takes 24 boys and 24 girls to each event.
+- Team selection is primarily based on performance in the MA Nordic Cup, held in late January. Performance in other events such as high school league racing and Eastern Cups may also contribute.
+- In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
+
+### Selection Criteria
 
 - Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the Mass Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
     1. **High School League Races** (public and private).
@@ -27,13 +34,6 @@ Attached are the athletes that have been named to the 2025 U16 and EHS teams as 
 - Invitations to the 2025 U16 and EHS teams were issued on Feb. 18, after the final Eastern Cup of the season.
 
 For more information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
-
-## Championship Events
-
-- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the New England Nordic Ski Association (NENSA). States from across the Northeast participate.
-- Massachusetts takes 24 boys and 24 girls to each event.
-- Team selection is primarily based on performance in the MA Nordic Cup, held in late January. Performance in other events such as high school league racing and Eastern Cups may also contribute.
-- In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
 
 ### Eligibility
 - Any U16 athlete living or going to school in MA is eligible for U16 Championships.
