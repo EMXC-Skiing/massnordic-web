@@ -9,7 +9,7 @@ nav_order: 1
 The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachusetts at the Eastern U16 Championship and the Eastern High School (EHS) Championship, race weekends held annually in March in New England. 
 Athletes are selected for these teams via participation in the annual Mass Nordic Cup as well as points earned from local and regional racing.
 
-## 2026 Team Naming and Handbook
+## 2025 Team Naming and Handbook
 
 See links below for lists of the athletes that have been named to the 2025 U16 and EHS teams as well as alternates.
 
