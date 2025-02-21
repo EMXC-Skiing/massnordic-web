@@ -11,14 +11,14 @@ Athletes are selected for these teams via participation in the annual Mass Nordi
 
 ## 2026 Team Naming and Handbook
 
-
-See links below for lists of the athletes that have been named to the 2025 U16 and EHS teams as well as the alternates.
+See links below for lists of the athletes that have been named to the 2025 U16 and EHS teams as well as alternates.
 
 - [Team Roster - U16 Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_U16_Boys.pdf %})
 - [Team Roster - U16 Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_U16_Girls.pdf %})
-- [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_EHS_Boys.pdf %})
+- [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_EHS_Boys_1.pdf %})
 - [Team Roster - EHS Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf %})
 
+[View Team MA Handbook for EHS and U16 Championships](https://docs.google.com/document/d/1CBtEnoU9peg9PNfb4RF9awkoh8uyV614/edit){: .btn .btn-blue }
 
 ## Championship Events
 
