@@ -7,8 +7,8 @@ nav_order: 1
 # The Mass Nordic Program
 
 The Massachusetts Nordic Program, known as Mass Nordic, promotes cross-country ski racing and development of junior athletes in Massachusetts.
-Each March, Team Mass competes against some of the best skiers in New England at the NENSA Eastern U16 Championship and the NENSA Eastern High School (EHS) Championship.
-Athletes earn their place on Team Mass by racing in the annual Mass Nordic Cup and collecting qualifying points from high school and club races.
+Each March, Team Mass competes against some of the best skiers in New England at the NENSA Eastern U16 Championships and the NENSA Eastern High School (EHS) Championships.
+Athletes earn their place on Team Mass by racing in the annual Mass Nordic Cup and collecting qualifying points from high school and club races throughout the season.
 
 ## 2026 Mass Nordic Cup
 
