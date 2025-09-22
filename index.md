@@ -9,16 +9,9 @@ nav_order: 1
 The Massachusetts Nordic Program, known as **Mass Nordic**, represents Massachusetts at the Eastern U16 Championship and the Eastern High School (EHS) Championship, race weekends held annually in March in New England. 
 Athletes are selected for these teams via participation in the annual Mass Nordic Cup as well as points earned from local and regional racing.
 
-## 2025 Team Naming and Handbook
+## 2026 Mass Nordic Cup
 
-See links below for lists of the athletes that have been named to the 2025 U16 and EHS teams as well as alternates.
-
-- [Team Roster - U16 Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_U16_Boys.pdf %})
-- [Team Roster - U16 Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_U16_Girls.pdf %})
-- [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_EHS_Boys_1.pdf %})
-- [Team Roster - EHS Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf %})
-
-[View Team MA Handbook for EHS and U16 Championships](https://docs.google.com/document/d/1CBtEnoU9peg9PNfb4RF9awkoh8uyV614/edit){: .btn .btn-blue }
+The 2026 Mass Nordic Cup will be held January 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg.](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier)
 
 ## Championship Events
 
