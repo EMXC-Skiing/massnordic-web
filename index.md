@@ -6,18 +6,19 @@ nav_order: 1
 
 # The Mass Nordic Program
 
-The Massachusetts Nordic Program, known as Mass Nordic, represents Massachusetts at the Eastern U16 Championship and the Eastern High School (EHS) Championship, race weekends held annually in March in New England. 
-Athletes are selected for these teams via participation in the annual Mass Nordic Cup as well as points earned from local and regional racing.
+The Massachusetts Nordic Program, known as Mass Nordic, promotes cross-country ski racing and development of junior athletes in Massachusetts.
+Each March, Team Mass competes against some of the best skiers in New England at the NENSA Eastern U16 Championship and the NENSA Eastern High School (EHS) Championship.
+Athletes earn their place on Team Mass by racing in the annual Mass Nordic Cup and collecting qualifying points from high school and club races.
 
 ## 2026 Mass Nordic Cup
 
-The 2026 Mass Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. You can [register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
+The 2026 Mass Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
 
 ## Championship Events
 
-- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the New England Nordic Ski Association (NENSA). States from across the Northeast participate.
+- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the [New England Nordic Ski Association (NENSA)](nensa.net). States from across the Northeast participate.
 - Massachusetts takes 24 boys and 24 girls to each event.
-- Team selection is primarily based on performance in the MA Nordic Cup, held in late January. Performance in other events such as high school league racing and Eastern Cups may also contribute.
+- Team selection is primarily based on results from the MA Nordic Cup, held in late January. Other events such as high school league racing and Eastern Cups may also contribute.
 - In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
 
 ### Selection Criteria
