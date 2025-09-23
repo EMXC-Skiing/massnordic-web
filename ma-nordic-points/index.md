@@ -10,5 +10,5 @@ Beginning in the 2024-25 season, Mass Nordic adopted a points-based system to se
 
 During the 25-26 season, the public points ranking will be posted here and updated on a regular basis.
 
-For information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
+For information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link ma-nordic-points/about.md %}).
 

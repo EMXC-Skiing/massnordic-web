@@ -30,7 +30,7 @@ The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodf
     3. Eastern Cups.
 - Invitations to the U16 and EHS teams are issued on the Tuesday after the final Eastern Cup race of the season.
 
-For more information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link mass-nordic-points/about.md %}).
+For more information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link ma-nordic-points/about.md %}).
 
 ### Eligibility
 - Any U16 athlete living or going to school in MA is eligible for U16 Championships.
