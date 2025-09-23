@@ -6,13 +6,14 @@ nav_order: 1
 
 # The Mass Nordic Program
 
-The Massachusetts Nordic Program, known as Mass Nordic, promotes cross-country ski racing and development of junior athletes in Massachusetts.
-Each March, Team Mass competes against some of the best skiers in New England at the NENSA Eastern U16 Championships and the NENSA Eastern High School (EHS) Championships.
-Athletes earn their place on Team Mass by racing in the annual Mass Nordic Cup and collecting qualifying points from high school and club races throughout the season.
+The Massachusetts Nordic Program, known as Mass Nordic, is an umbrella organization bringing together athletes, coaches, and clubs to support junior cross-country ski racing across the state.
+Our goal is to make high-quality racing and training accessible to all Massachusetts high school skiers, while also preparing Team MA to compete at the Eastern High School and U16 Championships each March.
+Through the annual MA Nordic Cup and the MA Ranking List, we provide fair, statewide racing opportunities for all high school–aged skiers and set a clear pathway for team selection.
+We also organize the Team MA trips to EHS and U16s and work closely with NENSA and community partners to strengthen racing and development opportunities across the state.
 
-## 2026 Mass Nordic Cup
+## 2026 MA Nordic Cup
 
-The 2026 Mass Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
+The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
 
 ## Championship Events
 
@@ -23,7 +24,7 @@ The 2026 Mass Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woo
 
 ### Selection Criteria
 
-- Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the Mass Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
+- Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the MA Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
     1. High School League Races (public and private).
     2. Championship Races (MIAA & NEPSAC).
     3. Eastern Cups.
@@ -36,10 +37,9 @@ For more information on how points and ranking lists are calculated, see [About 
 - Any high-school athlete (grade 9-12) living or going to school in MA is eligible for EHS Championships.
 -  Only athletes who have registered for the MA Nordic Cup are considered for team selection.
 
-## Mass Nordic Cup
+## MA Nordic Cup
 
-The Mass Nordic Cup is the primary means of qualifying for a championship team. It is held on a single day annually in late January and includes both skate and classic races. Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the Mass Nordic Cup.
-
+The MA Nordic Cup is the primary means of qualifying for a championship team. It is held on a single day annually in late January and includes both skate and classic races. Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
 
 ## About Mass Nordic
 
