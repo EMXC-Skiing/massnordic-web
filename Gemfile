@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
 gem "just-the-docs"
 gem "jekyll-target-blank", "~> 2.0"
