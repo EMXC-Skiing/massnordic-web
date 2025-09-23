@@ -6,10 +6,10 @@ nav_order: 1
 
 # The Mass Nordic Program
 
-The Massachusetts Nordic Program, known by most as Mass Nordic, is an umbrella organization bringing together athletes, coaches, and clubs to support junior cross-country ski racing across the state.
+The Massachusetts Nordic Program, better known as Mass Nordic, is an umbrella organization bringing together athletes, coaches, and clubs to support junior cross-country ski racing across the state.
 Our goal is to make high-quality racing and training accessible to all Massachusetts high school skiers, while also preparing Team MA to compete at the Eastern High School and U16 Championships each March.
-By organizing the annual MA Nordic Cup and maintaining the MA Ranking List, we provide accessible, statewide racing opportunities and set a clear pathway for team selection.
-We also lead the Team MA trips to EHS and U16s and work closely with NENSA and community partners to strengthen cross-country ski racing and development across the state.
+Through the annual MA Nordic Cup and the MA Ranking List, we provide accessible, statewide racing opportunities and set a clear pathway for team selection.
+We also lead the Team MA trips to EHS and U16s and work closely with NENSA and community partners to strengthen racing and development statewide.
 
 ## 2026 MA Nordic Cup
 
