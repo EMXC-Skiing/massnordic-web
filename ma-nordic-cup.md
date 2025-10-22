@@ -5,12 +5,16 @@ nav_order: 2
 permalink: /ma-nordic-cup/
 ---
 
-# MA Nordic Cup
+<figure class="float-top image-with-credit">
+  <img 
+    src="{{ site.baseurl }}/assets/images/2025_ma_nordic_cup.jpg" 
+    alt="2025 MA Nordic Cup">
+  <figcaption class="image-credit">
+    Photo by Dingli Zeng
+  </figcaption>
+</figure>
 
-<img 
-  src="{{ site.baseurl }}/assets/images/2025_ma_nordic_cup.jpg" 
-  alt="2025 MA Nordic Cup"
-  class="float-top">
+# MA Nordic Cup
 
 ## 2026 MA Nordic Cup
 
