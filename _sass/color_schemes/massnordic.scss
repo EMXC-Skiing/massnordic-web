@@ -1,3 +1,30 @@
 $color-scheme: massnordic;
 $link-color: $blue-100;
 $nav-child-link-color: $blue-200;
+
+@media (max-width: 600px) {
+  .float-right {
+    float: none;
+    display: block;
+    margin: 1em auto;
+    max-width: 100%;
+  }
+}
+
+.float-right {
+  float: right;
+  margin: 0 0 1em 1em;  /* top right bottom left */
+  max-width: 40%;       
+  width: 300px;
+  border-radius: 12px;
+  width: auto; 
+}
+
+.float-top {
+  float: top;
+  margin: 0 0 1em 1em;  /* top right bottom left */
+  max-width: 90%;       
+  width: 500px;
+  border-radius: 12px;
+  width: auto; 
+}

@@ -1,16 +1,28 @@
 ---
-title: 2025 MA Nordic Cup
+title: MA Nordic Cup
 layout: default
-parent: MA Nordic Cup
-nav_order: 1099
-permalink: /ma-nordic-cup/mnc-2025/
+nav_order: 2
+permalink: /ma-nordic-cup/
 ---
 
-# 2025 MA Nordic Cup
+# MA Nordic Cup
+
+<img 
+  src="{{ site.baseurl }}/assets/images/2025_ma_nordic_cup.jpg" 
+  alt="2025 MA Nordic Cup"
+  class="float-top">
+
+## 2026 MA Nordic Cup
+
+The **2026 MA Nordic Cup** will be held Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT.
+You can [register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
+
+
+## 2025 MA Nordic Cup
 
 The **2025 MA Nordic Cup** was held Sun, Jan. 26 at Prospect Mountain in Woodford, VT.
 
-## Race details
+### Race details
 
 General information about the 2025 race may be found in the [race document](https://docs.google.com/document/d/1NCbc5PkPhe5QUGVKvscRXiIr5_0wUNi8QKjOUpXQrVQ/edit?tab=t.0).
 

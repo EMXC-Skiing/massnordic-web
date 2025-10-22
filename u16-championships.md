@@ -7,6 +7,12 @@ permalink: /u16-championships/
 
 # U16 Championships
 
+<img 
+  src="{{ site.baseurl }}/assets/images/2025_u16_championships.jpg" 
+  alt="2025 U16 Championships"
+  class="float-top">
+
+
 ## 2026
 
 The **[2026 Eastern U16 Championships](https://nensa.net/u16-championships/)** will be held Mar. 13-16, 2026 at Oak Hill Outdoor Center in Hanover, NH.

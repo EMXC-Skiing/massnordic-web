@@ -7,6 +7,12 @@ permalink: /ehs-championships/
 
 # EHS Championships
 
+<img 
+  src="{{ site.baseurl }}/assets/images/2023_ehs_championships.jpg" 
+  alt="2023 Eastern High School Championships"
+  class="float-right">
+
+
 ## 2026
 
 The **[2026 Eastern High School (EHS) Championships](https://nensa.net/eastern-hs-championships/)** will be held Mar. 6-8, 2026 at Gore Mountain Nordic Center in North Creek, NY.
@@ -17,9 +23,10 @@ The **2025 Eastern High School (EHS) Championships** were held March 14-16 at Bl
 
 ### Results
 
-Results by [Bullitt Timing](https://bullitttiming.com/events/EHS-2025).
+Results by [Bullitt Timing](https://bullitttiming.com/events/EHS-2025)
 
 ### MA Team Naming
 
 - [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_EHS_Boys_1.pdf %})
 - [Team Roster - EHS Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf %})
+
