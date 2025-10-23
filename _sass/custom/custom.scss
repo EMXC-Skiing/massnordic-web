@@ -1,8 +1,9 @@
 .float-right {
   float: right;
-  width: 300px; 
-  margin: 0 0 1em 1em;  /* top right bottom left */
   max-width: 40%;
+  width: 300px; 
+  margin-left: 1em;
+  margin-bottom: 0.5em;
 }
 
 .float-right img {
@@ -13,37 +14,22 @@
 }
 
 .float-top {
-  max-width: 100%;       
-  max-height: 500px; 
-  border-radius: 8px;
-}
-
-.image-with-credit {
-  display: inline-block;
-  position: relative;
-}
-
-.image-with-credit img {
-  display: block;
   max-width: 100%;
+  margin-bottom: 0.5em;  
+}
+
+.float-top img {
+  display: block;  
+  width: 100%;
   height: auto;
   border-radius: 8px;
 }
 
-.image-credit {
+.image-with-credit .image-credit {
   font-size: 0.75rem;
   color: #666;
   text-align: right;
   margin-top: 0.25em;
-}
-
-.image-credit a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.image-credit a:hover {
-  text-decoration: underline;
 }
 
 @media (max-width: 600px) {
@@ -51,20 +37,36 @@
     float: none;
     width: 100%;
     max-width: 100%;
+    margin: 0 0 1em 0;
     display: block;
-    margin: 0 auto 1em;  /* top right bottom left */
+    text-align: center;
   }
-  .image-with-credit img {
-    width: 100%;
-}
+  .float-right img {
+    max-height: 40vh;         /* Limit height to 50% of viewport */
+    width: auto;              /* Let the width adjust naturally */
+    max-width: 100%;          /* But don’t overflow horizontally */
+    object-fit: contain;      /* Preserve aspect ratio */
+    margin: 0 auto;           /* Center horizontally */
+    display: block;
+  }
+
   .float-top {
     float: none;
     display: block;
     margin: 1em auto;
     max-width: 100%;
-    max-height: 400px;
   }  
-  .image-credit {
+
+  .float-top img {
+    max-height: 40vh;         /* Limit height to 50% of viewport */
+    width: auto;              /* Let the width adjust naturally */
+    max-width: 100%;          /* But don’t overflow horizontally */
+    object-fit: contain;      /* Preserve aspect ratio */
+    margin: 0 auto;           /* Center horizontally */
+    display: block;
+  }
+
+  .image-with-credit .image-credit {
     text-align: center;
   }
 }
