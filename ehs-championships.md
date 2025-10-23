@@ -5,8 +5,6 @@ nav_order: 4
 permalink: /ehs-championships/
 ---
 
-# EHS Championships
-
 <figure class="float-right image-with-credit">
   <img 
     src="{{ site.baseurl }}/assets/images/2023_ehs_championships.jpg" 
@@ -16,11 +14,7 @@ permalink: /ehs-championships/
   </figcaption>
 </figure>
 
-
-<!-- <img 
-    src="{{ site.baseurl }}/assets/images/2023_ehs_championships.jpg" 
-    alt="2023 Eastern High School Championships"
-    class="float-right"> -->
+# EHS Championships
 
 ## 2026
 

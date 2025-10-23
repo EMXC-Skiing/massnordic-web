@@ -5,12 +5,6 @@ nav_order: 3
 permalink: /u16-championships/
 ---
 
-<!-- <img 
-  src="{{ site.baseurl }}/assets/images/2025_u16_championships.jpg" 
-  alt="2025 U16 Championships"
-  class="float-top"> -->
-
-
 <figure class="float-top image-with-credit">
   <img 
     src="{{ site.baseurl }}/assets/images/2025_u16_championships.jpg" 
@@ -19,7 +13,6 @@ permalink: /u16-championships/
     Photo by Nicole Tucker
   </figcaption>
 </figure>
-
 
 # U16 Championships
 
