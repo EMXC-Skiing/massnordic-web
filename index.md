@@ -22,38 +22,6 @@ We also lead the Team MA trips to EHS and U16s and work closely with NENSA and c
 
 [View the 2025-26 MA Nordic Handbook](https://docs.google.com/document/d/1sTfYLq1wyU3E1HkICQPeuNqbKMZbkuzr4R6eZ1ArAGU/edit?tab=t.0#heading=h.wqx503eau4g0){: .btn .btn-blue }
 
-## 2026 MA Nordic Cup
-
-The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
-
-The MA Nordic Cup is the primary means of qualifying for a championship team.
-It is held on a single day annually in late January and includes both skate and classic
-races.
-Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
-
-
-## Championship Events
-
-- The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the [New England Nordic Ski Association (NENSA)](https://nensa.net). States from across the Northeast participate.
-- Massachusetts takes 24 boys and 24 girls to each event.
-- Team selection is primarily based on results from the MA Nordic Cup. Other events such as high school league racing and Eastern Cups may also contribute.
-- In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
-
-## Team Selection Criteria
-
-- Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the MA Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
-    1. High School League Races (public and private).
-    2. Championship Races (MIAA & NEPSAC).
-    3. Eastern Cups.
-- Invitations to the U16 and EHS teams are issued on the Tuesday after the final Eastern Cup race of the season.
-
-For more information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link ma-nordic-points/about.md %}).
-
-## Eligibility
-- Any U16 athlete living or going to school in MA is eligible for U16 Championships.
-- Any high-school athlete (grade 9-12) living or going to school in MA is eligible for EHS Championships.
--  Only athletes who have registered for the MA Nordic Cup are considered for team selection.
-
 ## About Mass Nordic
 
 ### Mass Nordic Committee
