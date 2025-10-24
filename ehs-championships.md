@@ -7,7 +7,7 @@ permalink: /ehs-championships/
 
 <figure class="float-right image-with-credit">
   <img 
-    src="{{ site.baseurl }}/assets/images/2023_ehs_championships.jpg" 
+    src="{{ site.baseurl }}/assets/images/optimized/2023_ehs_championships.jpg" 
     alt="2023 Eastern High School Championships">
   <figcaption class="image-credit">
     Photo by <a href="https://www.tombartol.com/photos" target="_blank">Tom Bartol</a>

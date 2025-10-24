@@ -6,7 +6,7 @@ nav_order: 1
 
 <figure class="float-top image-with-credit">
   <img 
-  src="{{ site.baseurl }}/assets/images/2025_ehs_championships_team.jpg" 
+  src="{{ site.baseurl }}/assets/images/optimized/2025_ehs_championships_team.jpg" 
   alt="2025 EHS Championships Team">
   <figcaption class="image-credit">
     Team MA at the 2025 Eastern High School Championships
@@ -20,9 +20,17 @@ Our goal is to make high-quality racing and training accessible to all Massachus
 Through the annual MA Nordic Cup and the MA Ranking List, we provide accessible, statewide racing opportunities and set a clear pathway for team selection.
 We also lead the Team MA trips to EHS and U16s and work closely with NENSA and community partners to strengthen racing and development statewide.
 
+[View the 2025-26 MA Nordic Handbook](https://docs.google.com/document/d/1sTfYLq1wyU3E1HkICQPeuNqbKMZbkuzr4R6eZ1ArAGU/edit?tab=t.0#heading=h.wqx503eau4g0){: .btn .btn-blue }
+
 ## 2026 MA Nordic Cup
 
 The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodford, VT. [Register on SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) starting Dec. 1.
+
+The MA Nordic Cup is the primary means of qualifying for a championship team.
+It is held on a single day annually in late January and includes both skate and classic
+races.
+Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
+
 
 ## Championship Events
 
@@ -31,7 +39,7 @@ The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodf
 - Team selection is primarily based on results from the MA Nordic Cup. Other events such as high school league racing and Eastern Cups may also contribute.
 - In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
 
-### Selection Criteria
+## Team Selection Criteria
 
 - Team selection is based on a points system that rewards performance in various races throughout the season -- primarily the MA Nordic Cup, which all skiers must register for. Points may also be earned via performances in:
     1. High School League Races (public and private).
@@ -41,14 +49,10 @@ The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodf
 
 For more information on how points and ranking lists are calculated, see [About MA Nordic Points]({% link ma-nordic-points/about.md %}).
 
-### Eligibility
+## Eligibility
 - Any U16 athlete living or going to school in MA is eligible for U16 Championships.
 - Any high-school athlete (grade 9-12) living or going to school in MA is eligible for EHS Championships.
 -  Only athletes who have registered for the MA Nordic Cup are considered for team selection.
-
-## MA Nordic Cup
-
-The MA Nordic Cup is the primary means of qualifying for a championship team. It is held on a single day annually in late January and includes both skate and classic races. Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
 
 ## About Mass Nordic
 

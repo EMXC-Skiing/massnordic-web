@@ -7,7 +7,7 @@ permalink: /u16-championships/
 
 <figure class="float-top image-with-credit">
   <img 
-    src="{{ site.baseurl }}/assets/images/2025_u16_championships.jpg" 
+    src="{{ site.baseurl }}/assets/images/optimized/2025_u16_championships.jpg" 
     alt="2025 U16 Championships">
   <figcaption class="image-credit">
     Photo by Nicole Tucker

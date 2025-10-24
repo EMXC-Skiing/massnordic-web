@@ -7,7 +7,7 @@ permalink: /ma-nordic-cup/
 
 <figure class="float-top image-with-credit">
   <img 
-    src="{{ site.baseurl }}/assets/images/2025_ma_nordic_cup.jpg" 
+    src="{{ site.baseurl }}/assets/images/optimized/2025_ma_nordic_cup.jpg" 
     alt="2025 MA Nordic Cup">
   <figcaption class="image-credit">
     Photo by Dingli Zeng
