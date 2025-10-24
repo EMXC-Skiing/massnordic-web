@@ -16,6 +16,11 @@ permalink: /ehs-championships/
 
 # EHS Championships
 
+Any high-school athlete (grade 9-12) living or going to school in MA is eligible to
+compete with Team MA at EHS Championships.
+Team selection is determined by results from the MA Nordic Cup and other events, as
+reflected in the MA Ranking List.
+
 ## 2026
 
 The **[2026 Eastern High School (EHS) Championships](https://nensa.net/eastern-hs-championships/)** will be held Mar. 6-8, 2026 at Gore Mountain Nordic Center in North Creek, NY.
@@ -30,6 +35,6 @@ Results by [Bullitt Timing](https://bullitttiming.com/events/EHS-2025)
 
 ### MA Team Naming
 
-- [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025_Mass_Nordic_EHS_Boys_1.pdf %})
-- [Team Roster - EHS Championships - Girls]({% link assets/pdf/2025_Mass_Nordic_EHS_Girls.pdf %})
+- [Team Roster - EHS Championships - Boys]({% link assets/pdf/2025/2025_Mass_Nordic_EHS_Boys_1.pdf %})
+- [Team Roster - EHS Championships - Girls]({% link assets/pdf/2025/2025_Mass_Nordic_EHS_Girls.pdf %})
 

@@ -11,3 +11,5 @@ callouts:
     color: yellow
 plugins:
   - jekyll-target-blank
+source: content
+destination: _site
