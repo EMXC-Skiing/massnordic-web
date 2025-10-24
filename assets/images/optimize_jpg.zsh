@@ -1,28 +1,38 @@
 #!/usr/bin/env zsh
-# Optimize JPEGs from raw/ -> optimized/ using ImageMagick + mozjpeg
-# - Resize to max width 1200px (no upscaling)
+# Optimize JPEGs from raw/ → optimized/
+# - Resize to max width (default 1200, CLI override)
 # - Strip metadata
-# - Re-encode as progressive JPEG (~85% quality)
+# - Re-encode as progressive JPEG (default 85% quality, CLI override)
+
+
+# USAGE:
+# Use defaults (1200px, 85% quality):
+# ./optimize_jpg.sh
+
+# Custom max width and quality:
+# ./optimize_jpg.sh 1600 75
+
+# Just custom width (quality falls back to 85):
+# ./optimize_jpg.sh 1024
 
 set -euo pipefail
 setopt null_glob
 
-# --- config ---
+# --- defaults ---
 SRC_DIR="raw"
 OUT_DIR="optimized"
-MAX_WIDTH=1200
-QUALITY=85
+MAX_WIDTH=${1:-1200}
+QUALITY=${2:-85}
 
-# --- deps ---
+# --- dependency checks ---
 for cmd in cjpeg; do
-  command -v "$cmd" >/dev/null 2>&1 || {
+  if ! command -v "$cmd" >/dev/null 2>&1; then
     echo "Error: '$cmd' (mozjpeg) not found on PATH." >&2
-    echo "Install: macOS 'brew install mozjpeg', Linux distro packages or source." >&2
+    echo "Install: brew install mozjpeg  # or your distro's equivalent" >&2
     exit 1
-  }
+  fi
 done
 
-# Prefer 'magick' (IM v7). Fallback to 'convert' (IM v6).
 if command -v magick >/dev/null 2>&1; then
   IM_BIN="magick"
 elif command -v convert >/dev/null 2>&1; then
@@ -36,30 +46,32 @@ fi
 [[ -d "$SRC_DIR" ]] || { echo "Error: source dir '$SRC_DIR' not found." >&2; exit 1; }
 mkdir -p "$OUT_DIR"
 
-# Process only .jpg; add patterns for .JPG/.jpeg if desired
+echo "   max width:  $MAX_WIDTH px"
+echo "   quality:    $QUALITY%"
+echo "   input dir:  $SRC_DIR/"
+echo "   output dir: $OUT_DIR/"
+echo ""
+
 typeset -i count=0
-for f in "$SRC_DIR"/*.jpg; do
-  base="${f:t}"                 # zsh: tail (filename)
+for f in "$SRC_DIR"/*.jpg "$SRC_DIR"/*.JPG(N) "$SRC_DIR"/*.jpeg(N); do
+  base="${f:t}"
   name="${base%.*}"
   out="$OUT_DIR/$name.jpg"
 
-  echo "→ $base  →  ${out#$OUT_DIR/}"
+  echo "→ $base → ${out#$OUT_DIR/}"
 
-  # Resize down to MAX_WIDTH (no upscaling), strip metadata, sRGB, pipe to mozjpeg
-  # Note: cjpeg from mozjpeg strips metadata by default unless -copy is used.
-  # We still use -strip on the IM side to drop profiles before encode.
-"$IM_BIN" "$f" \
-  -resize "${MAX_WIDTH}x>" \
-  -strip \
-  -colorspace sRGB \
-  ppm:- \
-| cjpeg -quality "$QUALITY" -progressive -optimize -outfile "$out"
+  "$IM_BIN" "$f" \
+    -resize "${MAX_WIDTH}x>" \
+    -strip \
+    -colorspace sRGB \
+    ppm:- \
+  | cjpeg -quality "$QUALITY" -progressive -optimize -outfile "$out"
 
   (( ++count ))
 done
 
 if (( count == 0 )); then
-  echo "No .jpg files found in '$SRC_DIR'."
+  echo "No matching images found in '$SRC_DIR'."
 else
-  echo "Done. Processed $count file(s) → '$OUT_DIR/'."
+  echo " Done. Processed $count file(s) → '$OUT_DIR/'."
 fi
