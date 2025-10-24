@@ -28,7 +28,7 @@ The 2026 MA Nordic Cup will be held Jan. 25, 2026, at Prospect Mountain in Woodf
 
 - The U16 Championships and EHS Championships are held on separate weekends in early March, organized by the [New England Nordic Ski Association (NENSA)](https://nensa.net). States from across the Northeast participate.
 - Massachusetts takes 24 boys and 24 girls to each event.
-- Team selection is primarily based on results from the MA Nordic Cup, held in late January. Other events such as high school league racing and Eastern Cups may also contribute.
+- Team selection is primarily based on results from the MA Nordic Cup. Other events such as high school league racing and Eastern Cups may also contribute.
 - In recent years, the dates of U16 and EHS championships have conflicted with US Ski & Snowboard's Junior National Championships (JNs). Typically, it is impossible for an athlete to participate in both JNs and EHS/U16s.
 
 ### Selection Criteria
@@ -61,4 +61,4 @@ Under EMXC policies, all coaches and athletes over the age of 18 participating i
 
 ### Contact 
 
-For questions or more information, please email [massnordic@emxc.org](mailto:massnordic@emxc.org).
+For questions or more information, please email [board@massnordic.org](mailto:board@massnordic.org).
