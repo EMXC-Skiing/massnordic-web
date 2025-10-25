@@ -1,13 +1,14 @@
-name: CI
+name: Jekyll Site CI
 
 on:
   push:
-    branches: ["main"]
+    branches-ignore:
+      - main        # run on branch pushes, not on main
   pull_request:
 
 jobs:
   # Build job
-  build:
+  verify-build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
