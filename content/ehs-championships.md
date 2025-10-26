@@ -16,8 +16,7 @@ permalink: /ehs-championships/
 
 # EHS Championships
 
-Any high-school athlete (grade 9-12) living or going to school in MA is eligible to
-compete with Team MA at EHS Championships.
+Any athlete in grades 9-12 living or going to school in MA is eligible to compete with Team MA at EHS Championships.
 Team selection is determined by results from the MA Nordic Cup and other events, as
 reflected in the MA Ranking List.
 
