@@ -16,14 +16,14 @@ permalink: /u16-championships/
 
 # U16 Championships
 
-Any U16 athlete (i.e., aged 14 or 15 on Dec. 31 of the winter season) who is living or going to school in MA is eligible to compete with Team MA at
-U16 Championships.
+Any U16 athlete (i.e., aged 14 or 15 on Dec. 31 of the winter season) who is living or
+going to school in MA is eligible to compete with Team MA at the U16 Championships.
 Team selection is determined by results from the MA Nordic Cup and other events, as
 reflected in the MA Ranking List.
 
 ## 2026
 
-The **[2026 Eastern U16 Championships](https://nensa.net/u16-championships/)** will be held Mar. 13-16, 2026 at Oak Hill Outdoor Center in Hanover, NH.
+The **[2026 Eastern U16 Championships](https://nensa.net/u16-championships/)** will be held Mar. 13-16, 2026, at Oak Hill Outdoor Center in Hanover, NH.
 
 ## 2025
 
