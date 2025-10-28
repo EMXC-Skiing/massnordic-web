@@ -23,10 +23,8 @@ Outside of extenuating circumstances such as illness or injury, athletes attempt
 
 ## 2026 MA Nordic Cup
 
-The **2026 MA Nordic Cup** will be held Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT.
-You can [register on
-SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier)
-starting Dec. 1.
+The 2026 MA Nordic Cup is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT.
+[Registration via SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) opens Dec. 1.
 
 ## Prior Races
 
