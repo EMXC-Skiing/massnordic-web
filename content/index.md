@@ -30,8 +30,8 @@ The **2026 MA Nordic Cup** will be held Sun, Jan. 25, 2026, at Prospect Mountain
 
 Team MA fields teams of 24 girls and 24 boys at each of
 [EHS Championships]({% link ehs-championships.md %}) and [U16 Championships]({% link u16-championships.md%}) every March.
-- For details on team naming, see [Points & Ranking Lists]({% link points/index.md %}).
-- For details on logistics and expectations for participants, see the [MA Nordic
+
+For details on team naming, trip logistics, and expectations, see the [MA Nordic
 Handbook](https://docs.google.com/document/d/1sTfYLq1wyU3E1HkICQPeuNqbKMZbkuzr4R6eZ1ArAGU/edit?tab=t.0#heading=h.wqx503eau4g0).
 
 ## About Mass Nordic
