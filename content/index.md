@@ -23,8 +23,9 @@ partners to strengthen racing and development statewide.
 
 ## MA Nordic Cup
 
-The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT.
-[Registration via SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) opens Dec. 1.
+The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT. **Skiers must register for this race to be considered for the U16 or EHS Championship teams**. Skiers who wish to be considered but are unable to participate in the race may apply for a waiver through their coach, but are still required to register. See <a href="{% link points/about.md %}#eligibility">Eligibility</a> for details.
+
+[Register for the 2026 MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier){: .btn .btn-blue }
 
 ## EHS & U16 Championships
 
@@ -40,6 +41,6 @@ Mass Nordic is an independent subsidiary of [EMXC Skiing](https://emxc.org) and 
 ### SafeSport
 All coaches and athletes over the age of 18 participating in MA Nordic championship teams are required to complete background checks and SafeSport training through US Ski and Snowboard. For more details, visit the EMXC [SafeSport Compliance page](https://emxc.org/resources/safesport-compliance).
 
-### Contact 
+### Contact
 
 For questions or more information, please email [board@massnordic.org](mailto:board@massnordic.org).
