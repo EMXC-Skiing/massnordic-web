@@ -19,12 +19,13 @@ permalink: /ma-nordic-cup/
 The MA Nordic Cup is the primary means of qualifying for a championship team.
 It is held on a single day annually, typically in late January, and includes both skate and classic
 races.
-Outside of extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
+Except in extenuating circumstances such as illness or injury, athletes attempting to qualify for a championship team are expected to race in the MA Nordic Cup.
 
 ## 2026 MA Nordic Cup
 
-The 2026 MA Nordic Cup is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT.
-[Registration via SkiReg](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier) opens Dec. 1.
+The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT. 
+
+[Register for the 2026 MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier){: .btn .btn-blue }
 
 ## Prior Races
 
