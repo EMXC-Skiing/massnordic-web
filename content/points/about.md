@@ -8,38 +8,39 @@ parent: Points & Ranking Lists
 
 ## Motivation
 
-The purpose of the points system is to promote objectivity and transparency in how athlete performance factors into championship team selection.
-The system preserves the central role of the MA Nordic Cup in naming championship teams while also rewarding athletes for strong performances in races outside of the MA Nordic Cup.
+The purpose of the points system is to promote objectivity and transparency in the way athlete performance factors into championship team selection.
 
 ## At a glance
 
+This section provides a high-level overview of how eligibility, scoring, ranking, and team selection fit together. Details, exceptions, and calculation rules are described in the sections below.
+
 **MA Nordic Cup:**
-Only athletes who race in the MA Nordic Cup or receive a waiver to skip it may qualify for a championship team.
+The MA Nordic Cup is the central pillar of qualification for an EHS or U16 championship team. To be eligible for team naming, skiers must compete in the MA Nordic Cup unless they obtain a waiver.
 
 **Earning MA Nordic Points:**
-Skiers earn MA Nordic Points by racing in various race series and championships beyond the MA Nordic Cup, including high school league races, state championships, and Eastern Cups.
+Skiers earn MA Nordic Points by racing in the MA Nordic Cup and in other designated statewide and regional races, including high school league races, state championships, and Eastern Cups.
+
+**MA Ranking List (MRL):**
+The MRL ranks skiers based on an aggregate of the MA Nordic Points they earn over the course of the season. Points are tracked separately for classic and skate races and combined to produce an overall ranking. The MRL is designed to reflect the quality of a skier’s performances rather than the quantity of races entered, while rewarding strong results at the MA Nordic Cup.
 
 **Team selection:**
-The MA Ranking List (MRL) ranks skiers by an aggregate of the points they earn over the course of the season. Performance in the MA Nordic Cup is an important contributor to placement on the MRL.
-
-**Objective and discretionary slots:**
-Twenty skiers of each gender are named to each championship team in order of placement on the MRL. An additional four skiers of each gender may be named to each championship team at the discretion of the MA Nordic selection committee.
+Team selection combines objective ranking with limited discretionary selection. Of the 24 available slots per team, 20 skiers are named to each championship team in order of placement on the MRL. An additional 4 skiers may be named to each championship team at the discretion of the MA Nordic selection committee.
 
 **Timeline:**
-The MRL is available online following the MA Nordic Cup and is updated at least weekly. Team selection and naming are based on the final version of the MRL and occur after the conclusion of the final Eastern Cup weekend.
+The MRL is published following the MA Nordic Cup and updated at least weekly. Team selection is based on the final MRL after the conclusion of the last Eastern Cup weekend. Deadlines for coach-submitted waivers and discretionary petitions are provided later in this document.
 
 ## Eligibility
 
 ### Registering for the MA Nordic Cup
 
-To qualify for the EHS or U16 Championship teams, skiers must register for and compete in the MA Nordic Cup. In specific cases, skiers may request a waiver to excuse their participation while remaining eligible for team selection.
+To qualify for the EHS or U16 Championship teams, skiers must register for and compete in the MA Nordic Cup. In specific cases, skiers may request a waiver to excuse their participation while remaining eligible for team selection. *Skiers with a waiver to miss the MA Nordic Cup must still register for it.*
 
 ### Requesting a waiver
 
-If a skier is unable to race in the MA Nordic Cup, they may still be eligible for team selection by obtaining a waiver. Waiver requests must be submitted in advance by the skier’s coach and may be granted for the following reasons:
+Skiers may be be eligible for team selection without racing the MA Nordic Cup by obtaining a waiver to miss it. Waiver requests must be submitted by the skier’s coach prior to the MA Nordic Cup and may be granted for the following reasons:
 
 1. Illness or injury on the day of the event.  
-2. Family commitments that prevent participation (Note: Other extracurricular activities generally do not qualify). Any such prior commitments should be communicated to Mass Nordic Committee via a coach-submitted waiver as soon as possible.
+2. Family commitments that prevent participation. Any such prior commitments should be communicated to Mass Nordic Committee via a coach-submitted waiver as soon as possible.  (Note: Other extracurricular activities generally do not qualify).
 3. Junior Nationals qualification expectations, if:  
    * The athlete would qualify for the New England Junior National team as a U18/U20 based on the NENSA Junior Ranking List (JRL) within the week prior to the MA Nordic Cup.  
    * The athlete is "on the bubble," meaning they are among the top three remaining Massachusetts skiers on the U18/U20 JRL after excluding those who would already qualify for Junior Nationals.
@@ -48,10 +49,10 @@ If a skier is unable to race in the MA Nordic Cup, they may still be eligible fo
 
 ### How to qualify with an approved waiver
 
-Skiers with approved waivers may be selected for a championship team on either objective criteria (via the MRL) or discretionary grounds, depending on the other races they have entered. 
+Skiers with approved waivers may be selected for a championship team either on objective criteria (via the MRL) or on discretionary grounds, depending on the skier's other eligible racing.
 
 * Skiers who have earned points from at least one classic and one skate race among the list of points-eligible events are included on the MRL and are eligible for selection based on their ranking on the list.
-* Skiers who have not earned both classic and skate points in the season are not included on the MRL and can only be considered for team selection through a discretionary pick by the Mass Nordic Committee.
+* Skiers who have not earned both classic and skate points in the season are not included on the MRL and can only be considered for team selection as a discretionary pick by the Mass Nordic Committee.
 
 ## Earning points
 
@@ -76,18 +77,17 @@ Points are calculated for all points-eligible races a skier has finished in the 
 
 ### How points are calculated
 
-Any registered skier who finishes a points-eligible race earns points in that race. Lower points indicate better performances. A skier’s points from a race depend on two factors:
+Any registered skier who finishes a points-eligible race earns points in that race. Lower points indicate better performances. Three components determine a skier's points in a scored race:
 
-1. The *race penalty,* which reflects the strength of the field, determines the top MA finisher’s points. The race penalty is calculated using a statistical procedure based on past results from the top 5 Massachusetts finishers in the race. Stronger fields yield lower race penalties.  
-2. Points for other racers are determined via their *fractional time back* from the top MA finisher (the ratio of the skier’s time to the top MA finisher’s time). A skier’s points are awarded in direct proportion to their fractional time back from the top MA finisher.
+1. The *field strength*, which establishes the points earned by the top scored finisher’s points. The race penalty is calculated using a statistical procedure based on past results from the top 5 scored finishers in the race. Stronger fields yield lower race penalties.  
+2. The *spread factor*, which is an adjustment for race formats that tend to spread out or compress the field.
+3. The *relative time back* from the top scored finisher (the ratio of the skier’s time to the top MA finisher’s time). A skier’s points are awarded in direct proportion to their fractional time back from the top scored finisher.
 
-Example: If the race penalty of a points-eligible race is 100, then the top MA finisher would score 100 points, and a skier whose time is 5% back from that of the top MA finisher would score 105 points.
+A skier's awarded points in a race is equal to the race's field strength plus the product of the race's spread factor and the skier's relative time back.
 
-## Team selection
+## MA Ranking List and team selection
 
 ### Calculation of the MRL
-
-<!-- ![Diagram illustrating MA Ranking List calculation from points](../assets/images/mrl_aggregation_diagram.png "Diagram illustrating MA Ranking List calculation from points.") -->
 
 Points are calculated separately for classic and skate races. The classic and skate averages are added together to form a skier’s overall points total. The formula is the same for each technique.
 
@@ -98,7 +98,8 @@ Points are calculated separately for classic and skate races. The classic and sk
 3. MA Nordic Cup points are used as placeholders if the skier doesn’t have other eligible races with better points.
 4. The average of these four numbers—MA Nordic Cup points and the three best other scores (or placeholders)—determines the skier’s overall point average for that technique.
 
-**Note:** No further racing beyond the MA Nordic Cup skate and classic events is required to be named to a championship team.
+{: .highlight }
+As the MA Nordic Cup consists of one scored skate race and one scored classic race, no further racing beyond the full MA Nordic Cup is required to be named to a championship team.
 
 **If the skier did not race in the MA Nordic Cup in a given technique:**
 
@@ -109,13 +110,15 @@ Points are calculated separately for classic and skate races. The classic and sk
 3. If a skier has not finished at least one eligible race in each technique, they do not appear on the MRL.
 
 {: .highlight }
-**Note**: At least one classic and one skate race must be completed for inclusion in the MRL. If a skier does not have enough eligible races, their only route onto a championship team is as a discretionary selection.
+At least one classic and one skate race must be completed for inclusion in the MRL. If a skier does not have enough eligible races, their only route onto a championship team is as a discretionary selection.
 
 ### Naming the team
 
-For each championship team, twenty slots of each gender are filled in order of placement on the MRL. If a skier declines one of these slots, that slot is offered to the next eligible skier on the MRL.
+Four teams are named: U16 Boys, U16 Girls, EHS Boys, and EHS Girls. Each team has a total of 24 available slots. These slots are split into 20 objective and 4 discretionary slots.
 
-Up to four team slots of each gender are filled at the discretion of the Mass Nordic Committee.
+Objective slots are filled in order of placement on the MRL. If a skier declines one of these slots, that slot is offered to the next eligible skier on the MRL.
+
+Discretionary slots are filled in the best judgement of the Mass Nordic Committee. Coaches may to submit petitions on behalf of individual athletes to [**board@massnordic.org**](mailto:board@massnordic.org). The deadline for petitions is the Monday following the final Eastern Cup of the season. Submitting a petition does not guarantee selection of that athlete, and an athlete may be selected even if no petition is submitted.
 
 ## For coaches
 
@@ -125,6 +128,7 @@ After each race, email the results as an attachment to [**board@massnordic.org**
 
 ### How do I submit a waiver on behalf of an athlete who will not be competing in the MA Nordic Cup?
 
-Waiver requests must be submitted by coaches prior to the MA Nordic Cup. Submitting a waiver does not guarantee the athlete a spot on a team. For more details, see the “Eligibility” section above.
+Waiver requests must be submitted by coaches prior to the MA Nordic Cup via [**this form**](https://forms.gle/hAyZnqmydJDZhb5L7). Coaches should submit one form for each athlete. *Submitting a waiver does not guarantee the athlete a spot on a team; it merely allows the athlete to stay in consideration while missing the MA Nordic Cup.* For more details, see the “Eligibility” section above.
 
-* [**Link to Waiver Submission**](https://forms.gle/hAyZnqmydJDZhb5L7). Coaches should complete one Google Form for each athlete.
+### How do I submit a petition to name my athlete to a team as a discretionary selection?
+Coaches may send an email with their reasoning to [**board@massnordic.org**](mailto:board@massnordic.org) by end of day on the Monday following the last Eastern Cup. *Submitting a petition does not guarantee selection of that athlete.* For details, see the "Naming the team" section above.
