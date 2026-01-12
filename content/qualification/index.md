@@ -17,9 +17,7 @@ For complete details of the qualification system, see the [Technical Reference](
 
 The MA Nordic Points system is designed to answer one question: *how strong is a skier’s body of racing across the season, with special weight given to racing against the full statewide field at the MA Nordic Cup?*
 
-Mass Nordic pairs a single day of statewide racing (the MA Nordic Cup) with a points-based system. Points are aggregated into a single MA Ranking List.
-
-Strong performances matter more than frequent racing, and results in both classic and skate are required. Final team selection is based primarily on the MA Ranking List.
+Mass Nordic pairs a single day of statewide racing (the MA Nordic Cup) with a points-based system that also incorporates racing from high school leagues and Eastern Cups. Points are aggregated into a single MA Ranking List, which forms the foundation for championship team selection.
 
 ### Step-by-step breakdown
 
