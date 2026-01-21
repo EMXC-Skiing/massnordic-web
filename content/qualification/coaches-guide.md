@@ -38,7 +38,7 @@ Athletes who anticipate being unable to enter one or both races of the MA Nordic
 
 Public and private high school races, Eastern Cups, the MA Nordic Cup, and other statewide races are scored for MA Nordic Points. Every athlete who's registered for the MA Nordic Cup receives points for finishing any of those races.
 
-{: .highlight }
+{: .notice_yellow }
 Completing the skate and classic races at the MA Nordic Cup is sufficient to meet the racing requirements for championship team selection. Additional racing beyond the MA Nordic Cup can only improve, not hurt, an athlete's point average.
 
 
@@ -68,7 +68,7 @@ Waivers may be granted for illness or injury on the day of the event, for family
 
 The Mass Nordic Board reviews waiver requests and communicates decisions to the athlete and coach. 
 
-{: .highlight }
+{: .notice_yellow }
 Athletes who miss one or both races at the MA Nordic Cup with an approved waiver should plan to race *at least* one scored classic and one scored skate race over the course of the season. Doing so will place them on the MA Ranking List (MRL) and maintain their eligibility to be selected on objective criteria. Athletes who do not complete scored races in both techniques are eligible for team naming only as discretionary selections.
 
 ## Data submission and review
