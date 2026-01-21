@@ -37,6 +37,14 @@ jobs:
           ruby-version: '3.4.6' # should match the Gemfile version
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Bundle and show resolved versions
+        run: |
+          bundle config set path vendor/bundle
+          bundle install --jobs 4 --retry 3
+          bundle exec ruby -v
+          bundle info just-the-docs
+          bundle exec jekyll -v
+          bundle list | grep -E "just-the-docs|jekyll|rouge|jekyll-sass-converter|sass-embedded"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
