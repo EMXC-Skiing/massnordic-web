@@ -7,9 +7,9 @@ search_enabled: true
 color_scheme: massnordic
 permalink: pretty
 callouts:
-  notice_yellow:
+  highlight:
     color: yellow
-  notice_blue:
+  update:
     title: Update
     color: blue    
 plugins:
