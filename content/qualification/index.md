@@ -35,7 +35,7 @@ The MA Nordic Cup is the central pillar of qualification for U16 and EHS teams. 
 
 To be eligible for team naming, skiers must register for and compete in the MA Nordic Cup unless a waiver is approved in advance. Even skiers with an approved waiver must still register for the MA Nordic Cup.
 
-{: .notice_yellow }
+{: .highlight }
 The MA Nordic Cup includes one scored classic race and one scored skate race. Completing the full Cup alone is sufficient to meet the racing requirements for championship team selection.
 
 ## Earning MA Nordic Points

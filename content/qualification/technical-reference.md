@@ -60,7 +60,7 @@ The Mass Nordic Board reviews waiver requests and communicates decisions to the 
 
 Waivers excuse participation in the MA Nordic Cup only. They do not change the racing requirements for inclusion on the MA Ranking List (MRL). To appear on the MRL, skiers must complete at least one scored classic race and one scored skate race.
 
-{: .notice_yellow }
+{: .highlight }
 Skiers who do not meet the one-classic, one-skate racing requirement do not appear on the MRL and may only be considered for team selection through discretionary selection.
 
 
@@ -107,7 +107,7 @@ Inclusion on the MA Ranking List requires completion of at least one scored clas
 
 *If a skier has MA Nordic Cup points in a technique*, their technique average is based on four values. The MA Nordic Cup points are always counted once. The best points from up to three other eligible races are counted once each, but only when they are better than the Cup result. If fewer than three such improvements exist, the remaining slots are filled using the Cup points. The technique average is the average of the four resulting values.
 
-{: .notice_yellow}
+{: .highlight}
 For skiers who have MA Nordic Cup points in a technique, additional races in that technique can only improve the technique average when they produce better points than the Cup result. Weaker results are not counted once stronger results are available. As a result, the decision to race beyond the MA Nordic Cup cannot in itself worsen a skier’s technique average or overall MA Ranking List position.
 
 
