@@ -9,6 +9,9 @@ permalink: pretty
 callouts:
   highlight:
     color: yellow
+  update:
+    title: Update
+    color: blue    
 plugins:
   - jekyll-target-blank
 source: content
