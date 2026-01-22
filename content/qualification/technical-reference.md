@@ -66,14 +66,18 @@ Skiers who do not meet the one-classic, one-skate racing requirement do not appe
 
 ## Earning MA Nordic Points
 
+{: .update}
+Due to weather constraints, the 2026 MA Nordic Cup does not include a skate race. **At least one scored skate result is still required for inclusion on the MA Ranking List.** Skiers should consult the list of points-eligible skate races below.
+
 ### Points-eligible races
 
 MA Nordic Points may be earned at:
 
-1. MA Nordic Cup and other statewide races administered by Mass Nordic  
-2. Public and private varsity high school league races  
-3. State Championships (MIAA and NEPSAC)  
-4. Eastern Cups  
+1. MA Nordic Cup
+2. Other statewide races sanctioned by Mass Nordic; in 2026 that includes the "Low Key Classic Race", Mathias Race, and Race for Snow.
+3. Public and private varsity high school league races
+4. State Championships (MIAA and NEPSAC)  
+5. Eastern Cups
 
 All high school and U16 skiers registered for the MA Nordic Cup earn points for finishing any points-eligible race in the current season.
 
@@ -110,10 +114,11 @@ Inclusion on the MA Ranking List requires completion of at least one scored clas
 {: .highlight}
 For skiers who have MA Nordic Cup points in a technique, additional races in that technique can only improve the technique average when they produce better points than the Cup result. Weaker results are not counted once stronger results are available. As a result, the decision to race beyond the MA Nordic Cup cannot in itself worsen a skier’s technique average or overall MA Ranking List position.
 
+{: .update }
+**2026 note on skate calculations:**  
+Because the 2026 MA Nordic Cup includes only a classic race, no skiers earn MA Nordic Cup points in skate technique. As a result, the “no MA Nordic Cup points in a technique” calculation described below applies to *all skiers* for skate technique in the 2025–26 season.
 
-*If a skier does not have MA Nordic Cup points in a given technique*, a waiver is required. Their technique average is based on up to three values. The skier’s three best results from their eligible races in that technique are counted. If fewer than three such races are completed, only the available results are counted. The technique average is the average of the counted values.
-
-
+*If a skier does not have MA Nordic Cup points in a given technique*, their technique average is based on up to three values. The skier’s three best results from their eligible races in that technique are counted. If fewer than three such races are completed, only the available results are counted. The technique average is the average of the counted values.
 
 ## Team selection
 

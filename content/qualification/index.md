@@ -23,9 +23,12 @@ Mass Nordic pairs a single day of statewide racing (the MA Nordic Cup) with a po
 
 The first step to be eligible for the U16 or EHS Championship teams is to register for the [MA Nordic Cup]({% link ma-nordic-cup/index.md %}).
 
-Registered skiers are expected to race in the MA Nordic Cup. Athletes with a pre-approved waiver to miss one or both races at the Cup should plan to complete additional racing during the season (see “Waivers” below).
+Registered skiers are expected to race in the MA Nordic Cup. Athletes with a pre-approved waiver to miss any portion of the Cup should plan to complete additional racing during the season (see “Waivers” below).
 
 Skiers may also participate in other scored skate and classic races, such as high school races and Eastern Cups.
+
+{: .update }
+**Technique requirement for 2026:** Participation in the MA Nordic Cup satisfies the *classic* racing requirement for all skiers. Because there is no skate race at the 2026 MA Nordic Cup, *all skiers must complete at least one scored skate race at another eligible event* in order to appear on the MA Ranking List (MRL). Options include high school races, Eastern Cups, the Race for Snow, Mathias Race, MIAA or NEPSAC championships.
 
 Most team spots are filled based on the MA Ranking List (MRL), which combines a skier's MA Nordic Cup performance with their best other scored races. A small number of additional spots are filled through discretionary selection by the MA Nordic Board.
 
@@ -35,8 +38,8 @@ The MA Nordic Cup is the central pillar of qualification for U16 and EHS teams. 
 
 To be eligible for team naming, skiers must register for and compete in the MA Nordic Cup unless a waiver is approved in advance. Even skiers with an approved waiver must still register for the MA Nordic Cup.
 
-{: .highlight }
-The MA Nordic Cup includes one scored classic race and one scored skate race. Completing the full Cup alone is sufficient to meet the racing requirements for championship team selection.
+<!-- {: .highlight }
+The MA Nordic Cup includes one scored classic race and one scored skate race. Completing the full Cup alone is sufficient to meet the racing requirements for championship team selection. -->
 
 ## Earning MA Nordic Points
 
