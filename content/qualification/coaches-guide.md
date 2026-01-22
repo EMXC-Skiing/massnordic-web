@@ -19,13 +19,12 @@ Coaches play a key role in setting athletes up for success in the Massachusetts 
 - Submit waiver requests in advance for any athlete who expects to miss any part of the MA Nordic Cup.
 
 **During the season**
-{: .highlight }
-In 2026, the MA Nordic Cup fulfills the classic race requirement for all athletes.  
-The Cup does not include a skate race, so *every athlete must finish at least one scored skate race elsewhere* to remain eligible for objective team selection.
-
 - Make sure athletes are on track to complete at least one scored classic race and one scored skate race.
 - Review posted results and the MRL regularly for accuracy.
 - Report errors or omissions to the Mass Nordic Board as soon as possible.
+
+{: .highlight }
+**Note for 2026:** This year, the MA Nordic Cup fulfills the classic race requirement for all athletes. The Cup does not include a skate race, so *every athlete must finish at least one scored skate race elsewhere* to remain eligible for objective team selection.
 
 **Team naming period**
 - Advise athletes on whether a discretionary petition may be appropriate.
