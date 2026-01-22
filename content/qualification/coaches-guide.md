@@ -14,12 +14,16 @@ This guide is aimed as a reference for coaches seeking to help their athletes qu
 Coaches play a key role in setting athletes up for success in the Massachusetts juniors skiing ecosystem and serve as advocates for their skiers in the team naming process. In practice, this involves the following responsibilities:
 
 **Before the MA Nordic Cup**
-- Confirm that all athletes seeking eligibility are registered for the MA Nordic Cup.
-- Prepare athletes to race both classic and skate events at the Cup.
-- Submit waiver requests in advance for any athlete who expects to miss one or both Cup races.
+- Confirm that all athletes interested in a championship team are registered for the MA Nordic Cup.
+- Prepare athletes to race in classic and skate technique.
+- Submit waiver requests in advance for any athlete who expects to miss any part of the MA Nordic Cup.
 
 **During the season**
-- Make sure athletes who missed part or all of the MA Nordic Cup are on track to complete at least one scored classic race and one scored skate race.
+{: .highlight }
+In 2026, the MA Nordic Cup fulfills the classic race requirement for all athletes.  
+The Cup does not include a skate race, so *every athlete must finish at least one scored skate race elsewhere* to remain eligible for objective team selection.
+
+- Make sure athletes are on track to complete at least one scored classic race and one scored skate race.
 - Review posted results and the MRL regularly for accuracy.
 - Report errors or omissions to the Mass Nordic Board as soon as possible.
 
@@ -30,16 +34,15 @@ Coaches play a key role in setting athletes up for success in the Massachusetts 
 
 ## Eligibility and participation
 
-Coaches should confirm that athletes are registered for the MA Nordic Cup and are prepared to enter both the classic and skate races.
-Only athletes who have registered for the MA Nordic Cup are considered for team selection.
-Athletes who anticipate being unable to enter one or both races of the MA Nordic Cup should still register for the race and their coach should apply for a waiver (see "Waivers" below).
+Coaches should confirm that athletes are registered for the MA Nordic Cup, as only athletes who have registered are considered for team selection.
+Athletes who anticipate being unable to complete any portion of the MA Nordic Cup should still register for the race and their coach should apply for a waiver (see "Waivers" below).
 
 ## Other scored racing 
 
 Public and private high school races, Eastern Cups, the MA Nordic Cup, and other statewide races are scored for MA Nordic Points. Every athlete who's registered for the MA Nordic Cup receives points for finishing any of those races.
 
 {: .highlight }
-Completing the skate and classic races at the MA Nordic Cup is sufficient to meet the racing requirements for championship team selection. Additional racing beyond the MA Nordic Cup can only improve, not hurt, an athlete's point average.
+Additional racing beyond the MA Nordic Cup can only improve, not hurt, an athlete's point average.
 
 
 ## The MA Ranking List (MRL)
@@ -62,14 +65,14 @@ Coaches may submit petitions for discretionary selection of an athlete via [**th
 
 ## Waivers
 
-Under certain circumstances, athletes may apply for a waiver to miss one or both races of the MA Nordic Cup while remaining eligible for championship teams. Waiver requests must be submitted by coaches prior to the MA Nordic Cup via [**this form**](https://forms.gle/hAyZnqmydJDZhb5L7). Coaches should submit one form for each athlete.
+Under certain circumstances, athletes may apply for a waiver to miss any part of the MA Nordic Cup while remaining eligible for championship teams. Waiver requests must be submitted by coaches prior to the MA Nordic Cup via [**this form**](https://forms.gle/hAyZnqmydJDZhb5L7). Coaches should submit one form for each athlete.
 
 Waivers may be granted for illness or injury on the day of the event, for family commitments that prevent participation, or for skiers on the bubble of Junior Nationals qualification. Other extracurricular activities generally do not qualify. More detail is provided in the [technical reference]({% link qualification/technical-reference.md %})
 
 The Mass Nordic Board reviews waiver requests and communicates decisions to the athlete and coach. 
 
 {: .highlight }
-Athletes who miss one or both races at the MA Nordic Cup with an approved waiver should plan to race *at least* one scored classic and one scored skate race over the course of the season. Doing so will place them on the MA Ranking List (MRL) and maintain their eligibility to be selected on objective criteria. Athletes who do not complete scored races in both techniques are eligible for team naming only as discretionary selections.
+Athletes who miss the MA Nordic Cup with an approved waiver should plan to race *at least* one scored classic and one scored skate race over the course of the season. Doing so will place them on the MA Ranking List (MRL) and maintain their eligibility to be selected on objective criteria. Athletes who do not complete scored races in both techniques are eligible for team naming only as discretionary selections.
 
 ## Data submission and review
 
