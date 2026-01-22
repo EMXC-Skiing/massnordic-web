@@ -25,9 +25,10 @@ partners to strengthen racing and development statewide.
 ## MA Nordic Cup
 
 {: .update }
-> **8:45am, Wed, Jan. 21, 2026:** The Mass Nordic race committee and race jury will be meeting at 8:30pm this evening to discuss logistics of the race this coming Sunday. With the forecasted cold weather and snow, we need to take in consideration the health and well being of the athletes and volunteers. Once a decision has been made, we will send out an email update as well as post it to our website, MassNordic.org, and SkiReg page.
+> **10:15pm, Wed, Jan. 21, 2026:**
+> The MA Nordic Cup will take place Friday night, January 23, at the Weston Ski Track. It will consist of a single race, a 5.5k classic interval start. Race start is 7:30 pm. [Read more here.]({% link ma-nordic-cup/index.md %})
 
-The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) is Sun, Jan. 25, 2026, at Prospect Mountain in Woodford, VT. **Skiers must register for this race to be considered for the U16 or EHS Championship teams**. Skiers who wish to be considered but are unable to participate in the race may apply for a waiver through their coach, but are still required to register. See [Qualifying for Team MA]({% link qualification/index.md %}) for details.
+The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) the evening of Fri, Jan. 23, 2026, at Weston Ski Track in Weston, MA. **Skiers must register for this race to be considered for the U16 or EHS Championship teams**. Skiers who wish to be considered but are unable to participate in the race may apply for a waiver through their coach, but are still required to register. See [Qualifying for Team MA]({% link qualification/index.md %}) for details.
 
 [Register for the 2026 MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier){: .btn .btn-blue }
 
