@@ -24,14 +24,14 @@ Except in extenuating circumstances such as illness or injury, athletes attempti
 
 The 2026 MA Nordic Cup is the evening of Fri, Jan. 23, 2026, at Weston Ski Track in Weston, MA.
 
-[Register for the 2026 MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier){: .btn .btn-blue }
-
 ### Event Details
 
 **Date:** Friday, January 23, 2026  
 **Venue:** Leo J. Martin Golf Course and Ski Track, Weston, MA  
 
 ### Schedule
+
+[View start list]({% link assets/pdf/2026/2026_MassNordicStartList_ByBib.pdf%}){: .btn .btn-blue}
 
 - 5:30-7:00 pm: Bib pickup & U16/EHS forms and fees drop-off  
 - 5:30-6:30 pm: Girls’ ski drop-off  
