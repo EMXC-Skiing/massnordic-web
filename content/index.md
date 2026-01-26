@@ -22,15 +22,14 @@ Through the annual MA Nordic Cup and the MA Ranking List, we provide accessible,
 We also lead the Team MA trips to EHS and U16s and work closely with NENSA and community
 partners to strengthen racing and development statewide.
 
-## MA Nordic Cup
+## Points and Ranking List
 
 {: .update }
-> **10:15pm, Wed, Jan. 21, 2026:**
-> The MA Nordic Cup will take place Friday night, January 23, at the Weston Ski Track. It will consist of a single race, a 5.5k classic interval start. Race start is 7:30 pm. [Read more here.]({% link ma-nordic-cup/index.md %})
+With the completion of the MA Nordic Cup, the MA Ranking List will go live sometime in the week of Jan. 26. Check this page for a link.
 
-The [2026 MA Nordic Cup]({% link ma-nordic-cup/index.md %}) the evening of Fri, Jan. 23, 2026, at Weston Ski Track in Weston, MA. **Skiers must register for this race to be considered for the U16 or EHS Championship teams**. Skiers who wish to be considered but are unable to participate in the race may apply for a waiver through their coach, but are still required to register. See [Qualifying for Team MA]({% link qualification/index.md %}) for details.
+## MA Nordic Cup
 
-[Register for the 2026 MA Nordic Cup](https://www.skireg.com/massachusetts-nordic-program-u16-eastern-high-school-qualifier){: .btn .btn-blue }
+The [MA Nordic Cup]({% link ma-nordic-cup/index.md %}) took place the evening of Fri, Jan. 23, 2026, at Weston Ski Track in Weston, MA. Skiers who completed this race, or registered with a coach-filed waiver, are under considered for the U16 or EHS Championship teams. 
 
 ## EHS & U16 Championships
 
