@@ -24,12 +24,8 @@ partners to strengthen racing and development statewide.
 
 ## Points and Ranking List
 
-{: .update }
-> To appear on the MA Ranking List, skiers who competed in the 2026 MA Nordic Cup should complete at least one scored skate race in the '25-'26 season. The [Race for Snow 5k](https://www.skireg.com/raceforsnow2026) at Weston Ski Track on Sat., Jan 31 will be scored for skate points if at least 5 juniors enter. Other scored skate races include Eastern Cups and MIAA and NEPSAC league races and championships.
->
-> In addition, the [Mathias Race]({% link assets/pdf/2026/2026_Mathias_Race_Flyer.pdf %}) at Mount Greylock Regional School on Sun, Feb. 1 will be scored for classic points if at least 5 juniors enter.
+[Browse points and ranking lists](https://massnordic.org/points){: .btn .btn-blue }
 
-With the completion of the MA Nordic Cup, the MA Ranking List will go live on this website the week of Jan. 26.
 
 ## MA Nordic Cup
 
