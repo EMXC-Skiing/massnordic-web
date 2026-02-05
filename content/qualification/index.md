@@ -5,9 +5,13 @@ nav_order: 5
 has_toc: false
 ---
 
+
+
 # Qualifying for Team MA
 
 This page provides key details that athletes and families should understand about how to qualify for U16s and EHS.
+
+[Browse points and ranking lists](https://massnordic.org/points){: .btn .btn-blue }
 
 For information on coach roles and responsibilities, see the [Coaches' Guide]({% link qualification/coaches-guide.md %}).
 
