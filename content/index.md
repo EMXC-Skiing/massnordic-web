@@ -22,14 +22,6 @@ Through the annual MA Nordic Cup and the MA Ranking List, we provide accessible,
 We also lead the Team MA trips to EHS and U16s and work closely with NENSA and community
 partners to strengthen racing and development statewide.
 
-## Points and Ranking List
-
-[Browse points and ranking lists](https://massnordic.org/points){: .btn .btn-blue }
-
-
-## MA Nordic Cup
-
-The [MA Nordic Cup]({% link ma-nordic-cup/index.md %}) took place the evening of Fri, Jan. 23, 2026, at Weston Ski Track in Weston, MA.
 
 ## EHS & U16 Championships
 
@@ -37,6 +29,14 @@ Team MA fields teams of 24 girls and 24 boys at each of
 [EHS Championships]({% link ehs-championships.md %}) and [U16 Championships]({% link u16-championships.md%}) every March.
 For details on team naming, trip logistics, and expectations, see the [MA Nordic
 Handbook](https://docs.google.com/document/d/1sTfYLq1wyU3E1HkICQPeuNqbKMZbkuzr4R6eZ1ArAGU/edit?tab=t.0#heading=h.wqx503eau4g0).
+
+The 2026 EHS and U16 teams were announced on Tue, Feb. 17.
+- [EHS Championship Team and Alternates]({% link assets/pdf/2026/2026_Mass_Nordic_EHS_Teams.pdf%})
+- [U16 Championship Team and Alternates]({% link assets/pdf/2026/2026_Mass_Nordic_U16_Teams.pdf%})
+
+Team Mass coaches will reach out to named athletes to confirm their spot on the team. Alternates will be contacted in the order listed.
+
+
 
 ## About Mass Nordic
 
