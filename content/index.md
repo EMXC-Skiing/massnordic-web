@@ -34,8 +34,7 @@ The 2026 EHS and U16 teams were announced on Tue, Feb. 17.
 - [EHS Championship Team and Alternates]({% link assets/pdf/2026/2026_Mass_Nordic_EHS_Teams.pdf%})
 - [U16 Championship Team and Alternates]({% link assets/pdf/2026/2026_Mass_Nordic_U16_Teams.pdf%})
 
-Team Mass coaches will reach out to named athletes to confirm their spot on the team. Alternates will be contacted in the order listed.
-
+Team Mass coaches will reach out to named athletes to confirm their spot on the team. In the event that spots open up, alternates will be contacted in the order listed.
 
 
 ## About Mass Nordic
